@@ -5,7 +5,7 @@ I'm a passionate coder and database aficionado who thrives on unraveling complex
 ## About Me
 - **Name:** Jerome L. Moreno
 - **Interests:** Coding, Database Management
-- **Education:** BS Information Technology, New Era University (2021-Present)
+- **Education:** BS Information Technology, New Era University (2022-Present)
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F992841B78F58AC821C5C617D8F223254AFEBFBD89D85842658D7922F67FD696)
