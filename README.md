@@ -19,7 +19,7 @@ I'm a passionate coder and database aficionado who thrives on unraveling complex
 ## Skill Sets
 - **Programming:** Java, JavaScript, Python
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, Tableau
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, Tableau(https://public.tableau.com/app/profile/jerome.moreno/vizzes)
 
 ## Contact Me
 - **LinkedIn:** [Jerome Moreno](https://www.linkedin.com/in/jerome-moreno-00b43b2a4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BaAf%2FMFIeRI6%2FFfEV0ChDoA%3D%3D)
