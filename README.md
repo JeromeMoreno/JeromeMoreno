@@ -4,19 +4,22 @@ I'm a passionate coder and database aficionado who thrives on unraveling complex
 
 ## About Me
 - **Name:** Jerome L. Moreno
-- **Interests:** Coding, Database Management
+- **Interests:** Coding, Database Management, Data Analytics
 - **Education:** BS Information Technology, New Era University (2022-Present)
 
 ## Certifications
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F992841B78F58AC821C5C617D8F223254AFEBFBD89D85842658D7922F67FD696)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AB33C54E2FCD7490922CFFB33DF913EF1411C9941D45F37CD85CD7134A77C1A2)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A2B6F57DD615BE0F42D16A7B78F9756B3FD4D8D222B0F684515FC78C4C89CC34)
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2bf890fa7618443fb2c6bdfcbc8a90ef)
+-[Foundations: Data, Data, Everywhere](https://coursera.org/share/1a4bb4b5fa7aa844134b1d6aad254a0b)
+-[Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/17ff77b5eedd88d2618dece1aea1e6b5)
+-[Prepare Data for Exploration](https://coursera.org/share/7ad8983878d340f6f07bfb714251af91)
+-[Process Data from Dirty to Clean](https://coursera.org/share/e8a8606a459039ca829bb42d049973a3)
+-[Analyze Data to Answer Questions](https://coursera.org/share/07c5e139efe3cf8868dacb973f07cb05)
+-[Share Data Throught the Art of Visualization](https://coursera.org/share/7ff228671df9170f5c7c9d72f9607d5d)
+-[Introduction to Data Analysis Using Python](https://coursera.org/share/28d7e5240c0cae7b45630ab6c8ad48d7)
 
 ## Skill Sets
-- **Programming:** Java, JavaScript
+- **Programming:** Java, JavaScript, Python
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, Tableau
 
 ## Contact Me
 - **LinkedIn:** [Jerome Moreno](https://www.linkedin.com/in/jerome-moreno-00b43b2a4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BaAf%2FMFIeRI6%2FFfEV0ChDoA%3D%3D)
